@@ -4,7 +4,7 @@
 | Date          | Urvisha M | Na XU     | 
 | ------------- | --------- | --------- |           
 | Nov 12 (Sun)  |           |     X     |           
-| Nov 13 (Mon)  |           |           |           
+| Nov 13 (Mon)  |           |     X     |           
 | Nov 16 (Thurs)|           |           |           
 | Nov 20 (Mon)  |           |           |           
 | Nov 23 (Thurs)|           |           |    
