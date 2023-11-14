@@ -2,8 +2,8 @@
 
 ## November 2023
 | Date          | Urvisha M | Na XU     | 
-| ------------- | --------- | --------- |           
-| Nov 12 (Sun)  |           |     X     |           
+| ------------- | --------- | --------- |                            
+| Nov 12 (Sun)  |     X     |     X     |           
 | Nov 13 (Mon)  |           |     X     |           
 | Nov 16 (Thurs)|           |           |           
 | Nov 20 (Mon)  |           |           |           
