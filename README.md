@@ -2,8 +2,12 @@
 
 - [Meeting schedule](./schedule.md) 
 
-### 2.SWOT Analysis 
-- [Here](../SWOTAnalysis.md)
+- [Competitive Analysis](./competitive_analysis)  
 
-### 4. Customer Journey or Sales Funnel
-- [Here](../CustomerJourney.md)
+- [SWOT Analysis](./SWOTAnalysis.md)
+
+- [Persona](./persona.md)
+
+- [Customer Journey or Sales Funnel](./CustomerJourney.md)
+
+- [Initial set of user stories at the Initiative and Epic level](./UserStories.md)  
