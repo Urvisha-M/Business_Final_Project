@@ -2,7 +2,7 @@
 
 - [Meeting schedule](./schedule.md) 
 
-- [Competitive Analysis](./competitive_analysis)  
+- [Competitive Analysis](./competitive_analysis.md)  
 
 - [SWOT Analysis](./SWOTAnalysis.md)
 
@@ -10,5 +10,7 @@
 
 - [Customer Journey or Sales Funnel](./CustomerJourney.md)
 
-- [Initial set of user stories at the Initiative and Epic level](./UserStories.md)     
+- [Initial set of user stories at the Initiative and Epic level](./UserStories.md)  
+  
+
 
