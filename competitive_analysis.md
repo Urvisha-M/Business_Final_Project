@@ -1,5 +1,5 @@
 # Competitive Analysis
- 
+
 ## Competitor 1: Starbucks
 - **Archetype:** The Explorer 
     - Starbucks is an explorer because of their innovative coffee blends, multiple unique recipes, and frequent development of new flavors. They do not just offer coffee, but they also have a variety of additional foods and drinks on their menu. They have locations across the world, and they like to expanding into new markets. 
@@ -8,7 +8,7 @@
     - Starbucks providing free reusable cups on Red Cup Day is an act of kindness that encourages customers to be thankful. This can create a sense of respect and kindness in customers, which makes them more loyal and willing to visit again. 
  
 ## Competitor 2: Dunkin Donuts
-- **Archetype:** Everyman 
+- **Archetype:** Everyman  
     - Dunkin Donuts is everyone's favorite because it can be found anywhere and is always close to home. They have a wide variety of drinks and food items on their menu, are reasonably priced, and prefer to keep everything simple. 
  
 - **Methods of Persuasion:** Liking 
