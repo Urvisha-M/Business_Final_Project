@@ -2,7 +2,7 @@
 
 - [Meeting schedule](./schedule.md) 
 
-- [Competitive Analysis](./competitive_analysis)  
+- [Competitive Analysis](./competitive_analysis.md)  
 
 - [SWOT Analysis](./SWOTAnalysis.md)
 
