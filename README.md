@@ -10,5 +10,7 @@
 
 - [Customer Journey or Sales Funnel](./CustomerJourney.md)
 
-- [Initial set of user stories at the Initiative and Epic level](./UserStories.md)     
+- [Initial set of user stories at the Initiative and Epic level](./UserStories.md)  
+  
+
 
