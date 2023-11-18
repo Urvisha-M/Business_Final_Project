@@ -1,9 +1,13 @@
 # Final-Project
 
 - [Meeting schedule](./schedule.md) 
+- 
+- [Competitive Analysis](./competitive_analysis)  
 
-### 2.SWOT Analysis 
-- [Here](../SWOTAnalysis.md)
+- [SWOT Analysis](./SWOTAnalysis.md)
 
-### 4. Customer Journey or Sales Funnel
-- [Here](../CustomerJourney.md)
+- [Persona](./persona.md)
+
+- [Customer Journey or Sales Funnel](./CustomerJourney.md)
+
+- [Initial set of user stories at the Initiative and Epic level](./UserStories.md)  
