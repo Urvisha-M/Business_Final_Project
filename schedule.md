@@ -6,8 +6,8 @@
 | Nov 12 (Sun)  |     X     |     X     |           
 | Nov 13 (Mon)  |     X     |     X     |           
 | Nov 16 (Thurs)|     X     |     X     |           
-| Nov 20 (Mon)  |     X     |     X     |           
-| Nov 23 (Thurs)|     X     |           |    
+| Nov 20 (Mon)  |           |     X     |           
+| Nov 23 (Thurs)|           |     X     |       
 | Nov 27 (Mon)  |           |           |          
 | Nov 30 (Thurs)|           |           |           
 
