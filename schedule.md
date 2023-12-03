@@ -9,7 +9,8 @@
 | Nov 20 (Mon)  |     X     |     X     |           
 | Nov 23 (Thurs)|     X     |     X     |       
 | Nov 27 (Mon)  |     X     |     X     |          
-| Nov 30 (Thurs)|           |     X     |           
+| Nov 30 (Thurs)|     X     |     X     |           
+
 
 ## December 2023
 | Date          | Urvisha M | Na Xu     | 
