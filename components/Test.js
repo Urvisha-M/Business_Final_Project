@@ -1,4 +1,4 @@
-import {Flex, Box, Text, Image, Button, Heading} from"@chakra-ui/react";
+import {Flex, Box, Text, Image, Button, Heading} from "@chakra-ui/react";
 
 
 export default function Test(){
