@@ -15,7 +15,7 @@
 ## December 2023
 | Date          | Urvisha M | Na Xu     | 
 | ------------- | --------- | --------- |        
-| Dec 4 (Mon)   |     X     |           |           
-| Dec 7 (Thurs) |     X     |           |           
+| Dec 4 (Mon)   |     X     |     X     |           
+| Dec 7 (Thurs) |     X     |     X     |           
 | Dec 11 (Mon)  |           |           |   
 | Dec 13 (Wed)  |           |           |          
