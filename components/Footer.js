@@ -1,7 +1,7 @@
-import {Flex, Box, Text} from"@chakra-ui/react";
-import { BsFillHouseHeartFill} from "react-icons/bs";
-import { FaSearchLocation, FaCoffee, FaTwitterSquare, FaInstagramSquare, FaPhoneAlt} from "react-icons/fa";
-import { MdPrivacyTip, MdFacebook, MdEmail} from "react-icons/md";
+import {Flex, Box, Text } from"@chakra-ui/react";
+import { BsFillHouseHeartFill } from "react-icons/bs";
+import { FaSearchLocation, FaCoffee, FaTwitterSquare, FaInstagramSquare, FaPhoneAlt } from "react-icons/fa";
+import { MdPrivacyTip, MdFacebook, MdEmail } from "react-icons/md";
 import { TbAlignBoxLeftMiddleFilled } from "react-icons/tb";
 
 export default function Footer(){

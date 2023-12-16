@@ -1,4 +1,4 @@
-import { Box} from '@chakra-ui/react';
+import { Box } from '@chakra-ui/react';
 import Header from '../components/Header2';
 import Footer from '../components/Footer';
 import Head from "next/head"

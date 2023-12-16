@@ -1,7 +1,7 @@
 import Header from '../components/Header1';
 import Hero from '../components/Hero';
 import CoffeeAndSweets from '../components/CoffeeAndSweets';
-import Box from '@chakra-ui/react'
+import { Box } from '@chakra-ui/react'
 import Loyalty from '../components/Loyalty';
 import Test from '../components/Test';
 import Footer from '../components/Footer';

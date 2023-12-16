@@ -1,4 +1,4 @@
-import {Flex, Box, Text, InputGroup, InputRightElement, Image, Button, Heading, Stack, Input, Divider, AbsoluteCenter, FormLabel} from "@chakra-ui/react";
+import {Flex, Box, Text, InputGroup, InputRightElement, Image, Button, Heading, Stack, Input, Divider, AbsoluteCenter, FormLabel } from "@chakra-ui/react";
 
 export default function AccountTable(){
     return (
