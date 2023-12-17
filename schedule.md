@@ -17,5 +17,5 @@
 | ------------- | --------- | --------- |        
 | Dec 4 (Mon)   |     X     |     X     |           
 | Dec 7 (Thurs) |     X     |     X     |           
-| Dec 11 (Mon)  |     X     |           |   
-| Dec 13 (Wed)  |     X     |           |          
+| Dec 11 (Mon)  |     X     |     X     |   
+| Dec 13 (Wed)  |     X     |     X     |          
