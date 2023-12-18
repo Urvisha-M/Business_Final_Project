@@ -4,6 +4,7 @@ import Footer from '../components/Footer';
 import Head from "next/head"
 import JoinTable from '../components/JoinTable';
 import CookieBanner from '../components/cookiebanner';
+import GoogleAnalytics from '../components/GoogleAnalytics';
 
 
 export default function account(){

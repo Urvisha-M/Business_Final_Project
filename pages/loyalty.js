@@ -4,6 +4,7 @@ import Footer from '../components/Footer';
 import Head from "next/head"
 import LoyaltyHero from '../components/LoyantyHero';
 import CookieBanner from '../components/cookiebanner';
+import GoogleAnalytics from '../components/GoogleAnalytics';
 
 export default function signIn(){
     return(
@@ -13,7 +14,7 @@ export default function signIn(){
           < meta name="description" content="Join Our Loyalty Program"/> 
           <title>Loyalty Program</title>
         </Head>
-        
+
         <GoogleAnalytics GA_MEASUREMENT_ID='G-RE2446VCYH' />
         
         <div>
