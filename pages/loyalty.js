@@ -11,7 +11,7 @@ export default function signIn(){
       <>
         
         <Head>
-          < meta name="description" content="Join Our Loyalty Program"/> 
+          <meta name="description" content="Join Our Loyalty Program"/> 
           <title>Loyalty Program</title>
         </Head>
 

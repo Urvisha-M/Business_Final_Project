@@ -24,25 +24,22 @@ export default function CookieBanner(){
 
         setLocalStorage("cookie_consent", cookieConsent)
 
-        //For Testing
-        console.log("Cookie Consent: ", cookieConsent)
-
     }, [cookieConsent]);
 
     return (
         <div className={`my-10 mx-auto max-w-max md:max-w-screen-sm
                         fixed bottom-0 left-0 right-0 
-                        flex px-3 md:px-4 py-3 justify-between items-center flex-col sm:flex-row gap-4  
-                         bg-gray-700 rounded-lg shadow ${cookieConsent != null ? "hidden" : "flex"}`}>
+                        flex px-3 md:px-4 py-3 justify-between items-center flex-col sm:flex-column gap-4  
+                        bg-slate-50 rounded-lg shadow ${cookieConsent != null ? "hidden" : "flex"}`}>
 
             <div className='text-center'>
                 <Link href="/cookie"><p>This website uses cookies to ensure you get the best experience. By continuing to use our site, you consent to our use of cookies. Learn more about our cookie policy. <span className='font-bold text-sky-400'>[Privacy Policy]</span></p></Link>
             </div>
 
             
-            <div className='flex gap-2'>
-                <button className='px-5 py-2 text-gray-300 rounded-md border-gray-900' onClick={() => setCookieConsent(false)}>Reject All Cookies</button>
-                <button className='bg-gray-900 px-5 py-2 text-white rounded-lg' onClick={() => setCookieConsent(true)}>Accept All Cookies</button>
+            <div className='flex flex-row gap-2'>
+                <button className='bg-purple-900 px-5 py-2 text-white rounded-md border-gray-900' onClick={() => setCookieConsent(false)}>Reject All Cookies</button>
+                <button className='bg-purple-900 px-5 py-2 text-white rounded-lg' onClick={() => setCookieConsent(true)}>Accept All Cookies</button>
             </div>   
         </div>
     )}
