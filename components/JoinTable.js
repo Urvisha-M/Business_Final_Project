@@ -16,11 +16,11 @@ export default function AccountTable(){
 
                 <Box  display="flex" flexDirection="column" alignItems="flex-start" justifyContent="center" >              
                     <Heading as='h4' fontFamily='Open Sans' fontSize='30' fontWeight={600} color="#540B81" mb={10} mt={0}>Why Join?</Heading>
-                    <Text fontSize="21" width={700} fontFamily='Open Sans, sans-serif' fontWeight={500} lineHeight="0"> 1. Exclusive perks and discounts </Text>  
-                    <Text fontSize="21" width={700} fontFamily='Open Sans, sans-serif' fontWeight={500} lineHeight="0"> 2. Early access to promotions and events </Text> 
-                    <Text fontSize="21" width={700} fontFamily='Open Sans, sans-serif' fontWeight={500} lineHeight="0"> 3. Special rewards for members </Text> 
-                    <Text fontSize="21" width={700} fontFamily='Open Sans, sans-serif' fontWeight={500} lineHeight="0"> 4. Your participation helps us contribute to the community </Text>  
-                    <Text fontSize="21" width={700} fontFamily='Open Sans, sans-serif' fontWeight={500} lineHeight="0"> 5. We believe in making a positive impact </Text> 
+                    <Text fontSize="21" width={700} fontFamily='Open Sans, sans-serif' fontWeight={500}> 1. Exclusive perks and discounts </Text>  
+                    <Text fontSize="21" width={700} fontFamily='Open Sans, sans-serif' fontWeight={500}> 2. Early access to promotions and events </Text> 
+                    <Text fontSize="21" width={700} fontFamily='Open Sans, sans-serif' fontWeight={500}> 3. Special rewards for members </Text> 
+                    <Text fontSize="21" width={700} fontFamily='Open Sans, sans-serif' fontWeight={500}> 4. Your participation helps us contribute to the community </Text>  
+                    <Text fontSize="21" width={700} fontFamily='Open Sans, sans-serif' fontWeight={500}> 5. We believe in making a positive impact </Text> 
                 </Box>
 
                 <Box  display="flex" flexDirection="column" alignItems="flex-start" justifyContent="center">              

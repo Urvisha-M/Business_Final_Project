@@ -9,7 +9,7 @@ export default function Test(){
             <Text fontSize="50" fontFamily='Outfit, sans-serif' color="#541189" fontWeight={700} letterSpacing="2.8" display="flex" justifyContent="center" alignItems="center" textAlign="center">TESTIMONIALS</Text>
           </Box>
       
-          <Flex alignItems="center" justifyContent="space-between" flexDirection="row" w={1065} mx="auto" mt={40}>
+          <Flex alignItems="center" justifyContent="space-between" flexDirection="row" w={1065} mx="auto" mt={80}>
             <Flex alignItems="center" justifyContent="center" position="relative" ml={10}>
               <Box w={340} h={265} backgroundColor="#FFF" display="flex" borderRadius={30} flexDirection="column" alignItems="center" justifyContent="flex-end" position="relative">    
                 <Image h="140" w={135} borderRadius={1000} borderColor="white" position="absolute" top={-70} src="/images/1.jpg" alt="Image" />
