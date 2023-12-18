@@ -10,7 +10,7 @@ export default function Hero(){
             <Heading as='h1' fontFamily='Open Sans' fontSize='70px' color="#540B81" fontWeight="600" mb={2} mt={0} ml={0} mr={0}>Epic Café</Heading>
             <Text fontSize="24"width={400} ml={0} mr={0} fontFamily='Outfit, sans-serif' textAlign="center" fontWeight={400}>Sip, relax, feel cozy. Welcome to your remarkable coffee journey and join our loyalty program.</Text>
                 <Flex>
-                <NextLink href="/join" passHref> <Button borderRadius={35} borderColor="#A426F1" borderWidth="2" borderStyle='solid' px={28} h={49} w={280} fontSize={30} color={'white'} mr={8} bg='#A426F1'  focusBorderColor="transparent" mt="10">Join Now</Button></NextLink>
+                <NextLink href="/join" passHref> <Button borderRadius={35} borderColor="#A426F1" borderWidth="2" borderStyle='solid' px={28} h={49} w={280} fontSize={30} color={'white'} mr={8} bg='#A426F1'  focusBorderColor="transparent" mt="10">Join Us</Button></NextLink>
                    
                 </Flex>
         </Box>
