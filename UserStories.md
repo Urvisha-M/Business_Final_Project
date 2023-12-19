@@ -10,7 +10,7 @@ Alice searches online for "coffee shop"
 Alice arrives at the homepage and is fascinated by the cozy atmosphere and coffee-related visuals, which include images creating a love for coffee culture. She discovers a special offer for the ”Choco Caramel Iced Latte" featuring a rich and bold flavor profile, and notices an appealing buy one get one promotion on select pastry items.
 
 ## Epic (Action)
-Alice realizes that to get the coupon for the featured "Choco Caramel Iced Latte," she needs to take action by clicking on the designated link to sign up.
+Alice realizes that to get the coupon for the featured "Choco Caramel Iced Latte," she needs to take action by clicking on the designated link to join the loyalty program.
 
 ## Epic (Loyalty)
 Alice checks her email after visiting the coffee shop and discovers loyalty rewards. If she brings a friend, they both receive a complimentary order of "Cinnamon Roll." Additionally, by sharing the special offer for the "Choco Caramel Iced Latte" on social media, tagging our shop, she will unlock a buy one get one 50% off deal on this featured beverage.
@@ -29,8 +29,8 @@ Alice comes across a website named "Epic Café" and wants to learn more.
 ## Epic (Interest)
 ### User Story
 Alice decides to try the special coffee on the website.  
-**Action:** Clicks on the link to register and get the coupon for the special coffee.  
-**Result:** Redirected to the registration page.  
+**Action:** Clicks on the link to join the loyalty program and get the coupon for the special coffee.  
+**Result:** Redirected to the join us page.  
 
 ## Epic (Action)
 ### User Story

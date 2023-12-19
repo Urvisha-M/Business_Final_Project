@@ -23,7 +23,7 @@
  
 ## Our Business: Epic Café
 - **Archetype:** Innocent 
-    - Our company will be simple and unique. It will serve a variety of drinks and meals to customers for breakfast or at any time of the day.  Our café will feature an appealing sitting area and will be pleasant and welcoming. We will make sure that our customers are satisfied, that we give back to the communities, and that our environment is safe. We are always welcome and greet our customers with a smile.  
+    - Our company will be simple and unique. It will serve a variety of drinks and meals to customers for breakfast or at any time of the day. Our café will feature an appealing sitting area and will be pleasant and welcoming. We will make sure that our customers are satisfied, that we give back to the communities, and that our environment is safe. We are always welcome and greet our customers with a smile.  
  
 - **Methods of Persuasion:** Liking 
     - Our company donates $1 to our charity fund for each new member who joins our loyalty program. At the end of each month, these collected funds are dedicated to supporting local charitable organizations, highlighting our commitment to the environment and community. We make an effort to build a positive relationship with our registered customers by providing exclusive deals and other rewards. 
