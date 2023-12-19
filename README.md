@@ -12,6 +12,4 @@
 
 - [Initial set of user stories at the Initiative and Epic level](./UserStories.md)  
 
-- [Figma Design 1](https://www.figma.com/file/YxnQnoziwqdSU6dozsbQD2/Design-1?type=design&node-id=0%3A1&mode=design&t=o2uO1EwZ7JiXRUlA-1)
-
-- [Figma Design 2](https://www.figma.com/file/fC1vX6VaTnimMt46B4NZqi/Design-2?type=design&node-id=0%3A1&mode=design&t=2vMb9RrD90uTj05P-1)
+- [Figma Design](https://www.figma.com/file/wSKSOsqPlj8Oy9z9Vrb140/Final-Project-Design?type=design&node-id=0-1&mode=design&t=F8CAbNOGEuHcAAEO-0) 
