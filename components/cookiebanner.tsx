@@ -30,10 +30,10 @@ export default function CookieBanner(){
         <div className={`my-10 mx-auto max-w-max md:max-w-screen-sm
                         fixed bottom-0 left-0 right-0 
                         flex px-3 md:px-4 py-3 justify-between items-center flex-col sm:flex-column gap-4  
-                        bg-slate-50 rounded-lg shadow ${cookieConsent != null ? "hidden" : "flex"}`}>
+                        bg-white rounded-lg shadow ${cookieConsent != null ? "hidden" : "flex"}`}>
 
             <div className='text-center'>
-                <Link href="/cookie"><p>This website uses cookies to ensure you get the best experience. By continuing to use our site, you consent to our use of cookies. Learn more about our cookie policy. <span className='font-bold text-sky-400'>[Privacy Policy]</span></p></Link>
+                <Link href="/cookie"><p>This website uses cookies to ensure you get the best experience. By continuing to use our site, you consent to our use of cookies. Learn more about our cookie policy. <span className='font-bold text-black0'  >[Privacy Policy]</span></p></Link>
             </div>
 
             
