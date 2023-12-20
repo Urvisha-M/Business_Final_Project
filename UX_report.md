@@ -1,4 +1,4 @@
-# UX Research Report
+# Usability: UX Research Report
 
 ## User 1 (Dec 2): Design 1 & 2
 **Feedback:**
