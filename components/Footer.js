@@ -8,7 +8,7 @@ export default function Footer(){
     return (
         <Flex alignItems="center" justifyContent="center" h={420} w={1065} mx="auto" mt={60}>
       
-        <Box h={420} w={525} display="flex" flexDirection="column" alignItems="flex-start" justifyContent="flex-start" ml={100} lineHeight={0.2}>
+        <Box h={420} w={525} display="flex" flexDirection="column" alignItems="flex-start" justifyContent="flex-start" ml={100} lineHeight={0.8}>
             <Text fontSize="18" fontWeight="600" fontFamily='Outfit, sans-serif' >Epic Café</Text>  
           
                 <Box display="flex" flexDirection="row"alignItems="center" justifyContent="flex-start" >
@@ -40,7 +40,7 @@ export default function Footer(){
         </Box>
 
 
-        <Box h={420} w={525} display="flex" flexDirection="column" alignItems="flex-start" justifyContent="flex-start" lineHeight={0.2} >
+        <Box h={420} w={525} display="flex" flexDirection="column" alignItems="flex-start" justifyContent="flex-start" lineHeight={0.8} >
             <Text fontSize="18" fontWeight="600" fontFamily='Outfit, sans-serif' >Privacy Policy</Text>  
            
             <Box display="flex" flexDirection="row"alignItems="center" justifyContent="flex-start" >
@@ -56,7 +56,7 @@ export default function Footer(){
             </Box>  */}
         </Box>
 
-        <Box h={420} w={525} display="flex" flexDirection="column" alignItems="flex-start" justifyContent="flex-start" lineHeight={0.2}>
+        <Box h={420} w={525} display="flex" flexDirection="column" alignItems="flex-start" justifyContent="flex-start" lineHeight={0.8}>
             <Text fontSize="18" fontWeight="600" fontFamily='Outfit, sans-serif' >Follow Us</Text>  
            
             <Box display="flex" flexDirection="row"alignItems="center" justifyContent="flex-start" >
@@ -81,7 +81,7 @@ export default function Footer(){
             </Box> 
         </Box>
 
-        <Box h={420} w={525} display="flex" flexDirection="column" alignItems="flex-start" justifyContent="flex-start" lineHeight={0.2}>
+        <Box h={420} w={525} display="flex" flexDirection="column" alignItems="flex-start" justifyContent="flex-start" lineHeight={0.8}>
             <Text fontSize="18" fontWeight="600" fontFamily='Outfit, sans-serif' >Contact</Text>  
            
             {/* <Box display="flex" flexDirection="row"alignItems="center" justifyContent="flex-start" >
