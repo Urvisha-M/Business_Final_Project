@@ -33,7 +33,7 @@ export default function CookieBanner(){
                         bg-white rounded-lg shadow ${cookieConsent != null ? "hidden" : "flex"}`}>
 
             <div className='text-center'>
-                <Link href="/cookie"><p>This website uses cookies to ensure you get the best experience. By continuing to use our site, you consent to our use of cookies. Learn more about our cookie policy. <span className='font-bold text-sky-400' text-black >[Privacy Policy]</span></p></Link>
+                <Link href="/cookie"><p>This website uses cookies to ensure you get the best experience. By continuing to use our site, you consent to our use of cookies. Learn more about our cookie policy. <span className='font-bold text-black0'  >[Privacy Policy]</span></p></Link>
             </div>
 
             
