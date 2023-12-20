@@ -7,7 +7,7 @@ export default function Loyalty(){
         <Flex id="lo" alignItems="center" justifyContent="center" h={528} >
       
             <Box h={528} w={540} backgroundColor='#997DC6' display="flex" flexDirection="column" alignItems="center" justifyContent="center">
-                <Image h="377" w={513} mt="20" borderRadius="10%" src="/images/loyalty.jpg" alt="Image"/>
+                <Image h="377" w={513} mt="20" borderRadius="10%" src="/images/loyalty-min.jpg" alt="Image"  />
                 <Text fontSize="24"width={510} ml={0} mr={0} fontFamily='Outfit, sans-serif' textAlign="center" fontWeight={500}>Join now for our loyalty program —— for every new member, we donate $1 to charity. Join us in making a difference!.</Text>
             </Box>
 

@@ -16,14 +16,14 @@ export default function JoinHero(){
                 </Box>
 
                 <Box  h={243} w={243} backgroundColor='#E2DCEF' borderRadius="50%" display="flex" alignItems="center" justifyContent="center">
-                    <Image h="209" w={189} borderRadius="100%" src="/images/Latte.jpg" alt="Image"/>
+                    <Image h="209" w={189} borderRadius="100%" src="/images/Latte-min.jpg" alt="Image"/>
                 </Box>
             </Flex>
 
             <Flex alignItems="center" justifyContent="center" h={277} w={1065} backgroundColor='#E9E5F1' borderColor="#837A7A" mx="auto" mb={20}>
 
                  <Box  h={243} w={243} backgroundColor='#FFEBEB' borderRadius="50%" display="flex" alignItems="center" justifyContent="center" mr={50}>
-                    <Image h="198" w={205} borderRadius="100%" src="/images/sweet.jpg" alt="Image"/>
+                    <Image h="198" w={205} borderRadius="100%" src="/images/sweet-min.jpg" alt="Image"/>
                 </Box>
 
                 <Box  display="flex" flexDirection="column" alignItems="center" justifyContent="center">
@@ -40,7 +40,7 @@ export default function JoinHero(){
                 </Box>
 
                 <Box  h={243} w={243} backgroundColor='#E2DCEF' borderRadius="50%" display="flex" alignItems="center" justifyContent="center">
-                    <Image h="209" w={189} borderRadius="100%" src="/images/community.jpg" alt="Image"/>
+                    <Image h="209" w={189} borderRadius="100%" src="/images/community-min.jpg" alt="Image"/>
                 </Box>
             </Flex>
             

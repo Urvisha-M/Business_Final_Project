@@ -16,7 +16,7 @@ export default function Hero(){
         </Box>
 
         <Box h={420} w={540} backgroundColor='#997DC6' display="flex" alignItems="center" justifyContent="center">
-        <Image h="390px" w={510} borderRadius="10%" src="/images/hero.jpg" alt="Image"/>
+        <Image h="390px" w={510} borderRadius="10%" src="/images/hero-min.jpg" alt="Image" />
         </Box>
     </Flex>
     )
